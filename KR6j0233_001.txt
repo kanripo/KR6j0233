@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:25.951749
+#+DATE: 2015-08-30 20:28:27.222485
 #+TITLE: 千轉陀羅尼觀世音菩薩呪
 #+PROPERTY: CBETA_ID T20n1035
 #+PROPERTY: ID KR6j0233
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1035
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0233_T_000-0017b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0233_T_001-0017b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1035[cf.Nos.1034,1036,¶
-901(Fasc.5)]¶
-
- 千轉陀羅尼觀世音菩薩呪¶
+No. 1035 [cf. Nos. 1034, 1036,¶
+ 901(Fasc. 5)]¶
+千轉陀羅尼觀世音菩薩呪¶
 ¶
 大唐總持寺沙門智通譯¶
 
