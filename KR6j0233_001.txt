@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:27.222485
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:38
 #+TITLE: 千轉陀羅尼觀世音菩薩呪
 #+PROPERTY: CBETA_ID T20n1035
 #+PROPERTY: ID KR6j0233
